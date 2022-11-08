@@ -14,6 +14,7 @@ import org.slf4j.Logger;
 @Mod(NatKek.MOD_ID)
 public class NatKek {
 
+    //Gey
     public static final String MOD_ID = "natkek";
 
     private static final Logger LOGGER = LogUtils.getLogger();
